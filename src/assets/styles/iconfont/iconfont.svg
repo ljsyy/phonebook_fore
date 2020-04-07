@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="tianjia" unicode="&#59419;" d="M800 384 576 384 576 608C576 625.92 561.92 640 544 640 526.08 640 512 625.92 512 608L512 384 288 384C270.08 384 256 369.92 256 352 256 334.08 270.08 320 288 320L512 320l0-224C512 78.08 526.08 64 544 64 561.92 64 576 78.08 576 96L576 320l224 0C817.92 320 832 334.08 832 352 832 369.92 817.92 384 800 384zM544 832C279.04 832 64 616.96 64 352 64 87.04 279.04-128 544-128S1024 87.04 1024 352C1024 616.96 808.96 832 544 832zM544-64C314.24-64 128 122.24 128 352 128 581.76 314.24 768 544 768 773.76 768 960 581.76 960 352 960 122.24 773.76-64 544-64z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="jiantou-copy" unicode="&#58983;" d="M671.807-31.804l-415.632 415.804 415.632 415.803 63.445-63.616-352.017-352.209 352.017-352.102z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
